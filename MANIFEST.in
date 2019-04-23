@@ -1,0 +1,2 @@
+recursive-include platwilio/templates *
+recursive-include platwilio/static *
